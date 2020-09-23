@@ -1,0 +1,35 @@
+title {
+	font-family: Verdana;
+	font-size: 18;
+	color: #312D24;
+	text-align: center;
+}
+
+normal {
+	font-family: Verdana;
+	font-size: 14px;
+	color: #312D24;
+	text-align: justify;
+}
+
+bold {
+	font-family: Verdana;
+	font-size: 16;
+	color: #312D24;
+	font-weight: bold;
+	text-align: left;
+}
+
+kamaslabel {
+	font-family: Verdana;
+	font-size: 16;
+	color: #312D24;
+}
+
+kamasinput {
+	font-family: Verdana;
+	font-size: 16;
+	color: #312D24;
+	font-weight: bold;
+	text-align: right;
+}

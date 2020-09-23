@@ -1,0 +1,185 @@
+p {
+	font-family: Verdana;
+	font-size: 17;
+	color: #312D24;
+}
+
+.separator {
+	leading: -12;
+}
+
+.customli {
+	color: #57574f;
+	margin-left: 22;
+}
+
+.value {
+	font-family: Verdana;
+	font-size: 17;
+	color: #312D24;
+}
+
+.subtitle {
+	font-family: Verdana;
+	font-size: 18;
+	color: #514a3c;
+	margin-left: 16;
+}
+
+.bonus {
+	font-family: Verdana;
+	font-size: 17;
+	color: #6db213;
+}
+
+.bonusvalue {
+	font-family: Verdana;
+	font-size: 17;
+	font-weight: bold;
+	color: #8bf402;
+}
+
+.malus {
+	font-family: Verdana;
+	font-size: 17;
+	color: #d0483a;
+}
+
+.malusvalue {
+	font-family: Verdana;
+	font-size: 17;
+	font-weight: bold;
+	color: #d0483a;
+}
+
+.subeffectleftcolumn {
+	margin-left: 32;
+	leading: -15;
+}
+
+.subeffectrightcolumn {
+	margin-left: 228;
+}
+
+.exotic {
+	font-family: Verdana;
+	font-size: 17;
+	color: #4683ce;
+}
+
+.exoticvalue {
+	font-family: Verdana;
+	font-size: 17;
+	font-weight: bold;
+	color: #68b6ff;
+}
+
+.theoretical {
+	font-family: Verdana;
+	font-size: 17;
+	color: #312D24 ;
+}
+
+.requirement {
+	font-family: Verdana;
+	font-size: 17;
+	color: #a8792b;
+}
+
+.special {
+	font-family: Verdana;
+	font-size: 17;
+	color: #ca8220;
+}
+
+.set {
+	font-family: Verdana;
+	font-size: 17;
+	color: #a47b02;
+}
+
+.importantNotice {
+	font-family: Verdana;
+	font-size: 17;
+	color: #ebc304;
+	margin-left: 32;
+}
+
+.description {
+	font-family: Verdana;
+	font-size: 17;
+	color: #c0590e;
+}
+
+.quote {
+	font-family: Verdana;
+	font-size: 17;
+	font-style: italic;
+	color: #c0590e;
+}
+
+.headerp {
+	font-family: Verdana;
+	font-size: 17;
+	color: #312D24;
+	margin-left: 48;
+}
+
+.headermalus {
+	font-family: Verdana;
+	font-size: 17;
+	color: #d0483a;
+	margin-left: 48;
+}
+
+.headertitle {
+	font-family: Verdana;
+	font-size: 18;
+	color: #514a3c;
+	margin-left: 48;
+}
+
+.footer {
+	font-family: Verdana;
+	font-size: 17;
+	font-style: italic;
+	color: #494949;
+	text-align: center;
+}
+
+.footerleft {
+	font-family: Verdana;
+	font-size: 15;
+	font-style: italic;
+	color: #494949;
+	text-align: left;
+	leading: -22;
+}
+
+.footerright {
+	font-family: Verdana;
+	font-size: 15;
+	font-style: italic;
+	color: #494949;
+	text-align: right;
+}
+
+spellZone {
+	font-family: Verdana;
+	font-size: 17;
+	color: #312D24;
+	margin-left: 32;
+}
+
+.spellpair {
+    font-family: Verdana;
+    font-size: 18;
+    font-weight: bold;
+    color: #514a3c;
+}
+
+.subtitleheader {
+	font-family: Verdana;
+	font-size: 15;
+	color: #c7c7c5;
+}

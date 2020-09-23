@@ -1,0 +1,32 @@
+p {
+    font-family: Verdana;
+    font-size: 16px;
+    color: #312D24;
+    text-align: left;
+}
+
+endbutton {
+    font-family: Verdana;
+    font-size: 15px;
+    color: #2f2f25;
+    font-stretch: condensed;
+    font-weight: normal;
+    text-align: center;
+}
+
+skip {
+    font-family: Verdana;
+    font-size: 14px;
+    color: #494949;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: left;
+}
+
+skipover {
+    font-family: Verdana;
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: normal;
+    text-align: left;
+}

@@ -1,0 +1,285 @@
+p {
+	font-family: Verdana;
+	font-size: 22px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+}
+right {
+	font-family: Verdana;
+	font-size: 22px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: right;
+}
+center {
+	font-family: Verdana;
+	font-size: 22px;
+	color: #ffffff;
+	font-weight: bold;
+	padding-left: 20px;
+}
+shadowedcenter_center{
+	shadow-distance: 2;
+	shadow-blurX: 2;
+	shadow-angle:90;
+}
+small {
+	font-family: Verdana;
+	font-size: 18px;
+	color: #312D24;
+	font-weight: bold;
+	text-align: left;
+}
+smallright {
+	font-family: Verdana;
+	font-size: 18px;
+	color: #312D24;
+	font-weight: bold;
+	text-align: right;
+}
+smallcenter {
+	font-family: Verdana;
+	font-size: 18px;
+	color: #312D24;
+	font-weight: bold;
+	text-align: center;
+}
+dark {
+	font-family: Verdana;
+	font-size: 21px;
+	color: #2f2f25;
+	font-weight: bold;
+	text-align: left;
+}
+darkcenter {
+	font-family: Verdana;
+	font-size: 21px;
+	color: #2f2f25;
+	font-weight: bold;
+	text-align: center;
+}
+
+darkcenterbig {
+	font-family: Verdana;
+	font-size: 25px;
+	color: #4E280A;
+	text-align: center;
+}
+opposite {
+	font-family: Verdana;
+	font-size: 25px;
+	color: #312D24;
+}
+oppositecenter {
+	font-family: Verdana;
+	font-size: 25px;
+	color: #4E280A;
+	text-align:center;
+}
+
+
+white {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #312D24;
+	font-weight: normal;
+	text-align: left;
+}
+whitemedium {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #312D24;
+	font-weight: medium;
+	text-align: left;
+}
+whitecenter {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #312D24;
+	font-weight: normal;
+	text-align: center;
+}
+
+whitemediumcenter {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #c7c7c5;
+	font-weight: medium;
+	text-align: center;
+}
+
+purewhitemedium {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #ffffff;
+	font-weight: medium;
+	text-align: left;
+}
+
+green {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #ffffff;
+	font-weight: normal;
+	text-align: left;
+}
+greenbold {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+}
+greencenter {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #ffffff;
+	font-weight: normal;
+	text-align: center;
+}
+
+gray {
+	font-family: Verdana;
+	font-size: 22px;
+	color: #696968;
+	font-weight: bold;
+	text-align: left;
+}
+
+whitebold {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #312D24;
+	font-weight: bold;
+	text-align: left;
+}
+whiteboldcenter {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #312D24;
+	font-weight: bold;
+	text-align: center;
+}
+whiteboldright {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #312D24;
+	font-weight: bold;
+	text-align: right;
+}
+
+whitemediumboldcenter {
+	font-family: Verdana;
+	font-size: 24px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: center;
+}
+
+whitebigbold {
+	font-family: Verdana;
+	font-size: 27px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+}
+whitebigboldcenter {
+	font-family: Verdana;
+	font-size: 27px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: center;
+}
+whitehugebold {
+	font-family: Verdana;
+	font-size: 44px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+}
+whitehugeboldcenter {
+	font-family: Verdana;
+	font-size: 35px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: center;
+	shadow-distance: 1;
+	shadow-blurX: 7;
+	shadow-blurY: 7;
+	shadow-angle: 45;
+	shadow-alpha: 0.6;
+}
+
+itemset {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #cc9933;
+	font-weight: bold;
+	text-align: left;
+}
+
+itemetheral {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #8ab7ee;
+	font-weight: bold;
+	text-align: left;
+}
+victory {
+    font-family: Verdana;
+    font-size: 24px;
+    color: #673d15;
+    font-weight: bold;
+    text-align: center;
+    shadow-color: #faf328;
+    shadow-blurX: 2;
+    shadow-blurY: 2;
+    shadow-distance: 2;
+    shadow-angle: 90;
+}
+defeat {
+    font-family: Verdana;
+    font-size: 24px;
+    color: #47360c;
+    font-weight: bold;
+    text-align: center;
+    shadow-color: #d39086;
+    shadow-blurX: 2;
+    shadow-blurY: 2;
+    shadow-distance: 2;
+    shadow-angle: 90;
+}
+levelup {
+	font-family: Verdana;
+	font-size: 40px;
+	color: #673d15;
+	font-weight: bold;
+	text-align: center;
+	shadow-color: #faf328;
+	shadow-blurX: 2;
+	shadow-blurY: 4;
+	shadow-distance: 2;
+	shadow-angle: 90;
+}
+levelupomega_levelup {
+	font-size: 60px;
+}
+scroll {
+	font-family: Verdana;
+	font-size: 25px;
+	color: #d09b4b;
+	text-align: center;
+	shadow-color : #000;
+	shadow-distance : 9;
+}
+
+newfeaturetitle
+{
+	font-family: Verdana;
+	font-size: 34px;
+	color: #fea601;
+	font-weight: bold;
+	text-align: right;
+	shadow: 2px 2px 2px #fea601, 0px 0px 25px #fea601;
+}

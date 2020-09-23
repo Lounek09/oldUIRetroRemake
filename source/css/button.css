@@ -1,0 +1,27 @@
+p {
+	font-family: Verdana;
+	font-size: 15;
+	color: #ffffff;
+
+	text-align: center;
+}
+
+light_p {
+	color: #ffffff;
+}
+
+small_p {
+	font-size: 13;
+}
+
+lightSmall_small {
+	color: #ffffff;
+}
+
+condensed_p {
+	font-family: Verdana;
+}
+
+big_condensed_p {
+	font-size: 26;
+}
