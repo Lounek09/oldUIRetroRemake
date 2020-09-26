@@ -145,23 +145,23 @@ mediumrightbold {
 }
 
 condensedboldleft {
-	font-family: VerdanaCondensed;
-	font-size: 14px;
+	font-family: Verdana;
+	font-size: 15px;
 	color: #312D24;
 	font-weight: bold;
 	text-align: left;
 }
 
 condensedboldcenter {
-	font-family: VerdanaCondensed;
-	font-size: 14px;
+	font-family: Verdana;
+	font-size: 15px;
 	color: #312D24;
 	font-weight: bold;
 	text-align: center;
 }
 condensedboldright {
-	font-family: VerdanaCondensed;
-	font-size: 14px;
+	font-family: Verdana;
+	font-size: 15px;
 	color: #312D24;
 	font-weight: bold;
 	text-align: right;
