@@ -18,7 +18,7 @@
 	
 	<entry key="ui.modalbg">0x000000</entry>
 	<entry key="ui.shadow">0x333333</entry>
-	<entry key="ui.shadow.dark">0x000000</entry>
+	<entry key="ui.shadow.dark">0x222222</entry>
 	<entry key="ui.light">0xffffff</entry>
 	<entry key="ui.bg.window">0xD5CFAA</entry>
 	<entry key="ui.wnd.border">0xFFFFFF</entry>
@@ -45,8 +45,8 @@
 	
 	<entry key="radio.over">0x2C2E26</entry>
 	
-	<entry key="combobox.over">0x903D3D</entry>
-	<entry key="combobox.selected">0x252c2d</entry>
+	<entry key="combobox.over">0x93866C</entry>
+	<entry key="combobox.selected">0xF88D30</entry>
 		
 	<entry key="contextmenu.title">0x514A3C</entry>
 	<entry key="contextmenu.title.alpha">0.8</entry>
