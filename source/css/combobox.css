@@ -1,6 +1,6 @@
 p {
 	font-family: Verdana;
-	font-size: 15;
+	font-size: 15px;
 	color: #312D24;
 	paddingLeft: 13px;
 	verticalAlign: CENTER;
@@ -8,7 +8,7 @@ p {
 
 maincontainer {
 	font-family: Verdana;
-	font-size: 15;
+	font-size: 15px;
 	color: #312D24;
 	paddingLeft: 13px;
 }

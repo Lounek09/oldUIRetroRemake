@@ -13,13 +13,13 @@
 	-->
 	
 	<!--======================================================================-->
-	<!--                            Couleurs                                -->
+	<!--                            Couleurs                                  -->
 	<!--======================================================================-->
 	
 	<entry key="ui.modalbg">0x000000</entry>
-	<entry key="ui.shadow">0x333333</entry>
-	<entry key="ui.shadow.dark">0x222222</entry>
-	<entry key="ui.light">0xffffff</entry>
+	<entry key="ui.shadow">0xFCFAEB</entry>
+	<entry key="ui.shadow.dark">0xFCFAEB</entry>
+	<entry key="ui.light">0xFCFAEB</entry>
 	<entry key="ui.bg.window">0xD5CFAA</entry>
 	<entry key="ui.wnd.border">0xFFFFFF</entry>
 	
@@ -38,8 +38,8 @@
 	<!--	// Temporis IV-->
 	<entry key="grid.passiveSpell">0x7C6399</entry>
 		
-	<entry key="multigrid.line">0x7E7673</entry>
-	<entry key="multigrid.subline">0xB4AC8D</entry>
+	<entry key="multigrid.line">0xB4AC8D</entry>
+	<entry key="multigrid.subline">0xC9BF9D</entry>
 	<entry key="multigrid.selected">0xF88D30</entry>
     <entry key="multigrid.subselected">0x354C58</entry>
 	
@@ -59,7 +59,7 @@
 	<entry key="contextmenu.separator">0x514A3C</entry>
 	<entry key="contextmenu.shortcut">0x797979</entry>
 	
-	<entry key="timeline.border_current_fighter">0xff6100</entry>	
+	<entry key="timeline.border_current_fighter">0xFF6600</entry>	
 	
 	<entry key="tooltip.bg">0xFCFAEB</entry>
 	<entry key="tooltip.bg.alpha">0.9</entry>
@@ -73,27 +73,27 @@
 	
 	<!-- Couleurs de textes -->
 	
-	<entry key="shortcut">0xdb4302</entry>
+	<entry key="shortcut">0xDB4302</entry>
 	<entry key="text.help">0x312D24</entry>
 	
 	<entry key="hyperlink.link">0x126779</entry>
 	<entry key="hyperlink.hover">0x067790</entry>
-	<entry key="hyperlink.warning">0xec0101</entry>
+	<entry key="hyperlink.warning">0xEC0101</entry>
 	
-	<entry key="tooltip.text.red">0xc10000</entry>
-	<entry key="tooltip.text.orange">0xf17921</entry>
+	<entry key="tooltip.text.red">0xC10000</entry>
+	<entry key="tooltip.text.orange">0xF17921</entry>
 	<entry key="tooltip.text.disabled">0x868686</entry>
 	<entry key="tooltip.text.violet">0xBB8BFF</entry>
 	
-	<entry key="hierarchy.moderator">0xff4343</entry>
-	<entry key="hierarchy.gamemaster_padawan">0xc79866</entry>
-	<entry key="hierarchy.gamemaster">0xc79866</entry>
-	<entry key="hierarchy.administrator">0x686fff</entry>
+	<entry key="hierarchy.moderator">0xFF4343</entry>
+	<entry key="hierarchy.gamemaster_padawan">0xC79866</entry>
+	<entry key="hierarchy.gamemaster">0xC79866</entry>
+	<entry key="hierarchy.administrator">0x686fFFF</entry>
 	
-	<entry key="text.glow">0xffffff</entry>
+	<entry key="text.glow">0xFFFFFF</entry>
 	<entry key="text.glow.dark">0x333333</entry>
-	<entry key="text.glow.light">0xfffae4</entry>
-	<entry key="text.glow.red">0xed6029</entry>
+	<entry key="text.glow.light">0xFFFAE4</entry>
+	<entry key="text.glow.red">0xED6029</entry>
 	
 	<entry key="fight.text.multi">0x9B67CF</entry>
 	<entry key="fight.text.air">0x4FB24F</entry>
@@ -103,26 +103,26 @@
 	<entry key="fight.text.neutral">0x7D7D7D</entry>
 	
 	<entry key="smithmagic.success">0x365218</entry>
-	<entry key="smithmagic.fail">0x5a2827</entry>	
+	<entry key="smithmagic.fail">0x5A2827</entry>	
 	<entry key="tooltip.bonus">0x52AE3F</entry>
 	<entry key="tooltip.malus">0xCB685E</entry>
 		
 	<entry key="shop.oldPrice">0x737373</entry>
-	<entry key="area.all">0xc7c7c5</entry>
-	<entry key="area.normal">0xc7c7c5</entry>
-	<entry key="area.weakened">0xd7b352</entry>
-	<entry key="area.sabotaged">0xb652d7</entry>
-	<entry key="area.vulnerable">0xd76552</entry>
-	<entry key="area.capturable">0xb2d71b</entry>
-	<entry key="area.all.dark">0x696968</entry>
-	<entry key="area.normal.dark">0x696968</entry>
-	<entry key="area.weakened.dark">0x8c7330</entry>
-	<entry key="area.sabotaged.dark">0x6f427e</entry>
-	<entry key="area.vulnerable.dark">0x7e4b42</entry>
-	<entry key="area.capturable.dark">0x5d6f14</entry>
+	<entry key="area.all">0x312D24</entry>
+	<entry key="area.normal">0x312D24</entry>
+	<entry key="area.weakened">0x9B7F37</entry>
+	<entry key="area.sabotaged">0xAC58C8</entry>
+	<entry key="area.vulnerable">0xBB6050</entry>
+	<entry key="area.capturable">0x748A1B</entry>
+	<entry key="area.all.dark">0x312D24</entry>
+	<entry key="area.normal.dark">0x312D24</entry>
+	<entry key="area.weakened.dark">0x9B7F37</entry>
+	<entry key="area.sabotaged.dark">0xAC58C8</entry>
+	<entry key="area.vulnerable.dark">0xBB6050</entry>
+	<entry key="area.capturable.dark">0x748A1B</entry>
 
-	<entry key="icon.green">0xb2d71b</entry>
-	<entry key="icon.grey">0xc7c7c5</entry>
+	<entry key="icon.green">0xFF6600</entry>
+	<entry key="icon.grey">0x252525</entry>
 
 	<!-- Divers -->
 	

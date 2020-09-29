@@ -81,27 +81,15 @@
 	// Red button
 	button_small_red_normal:{
 		uri: "[config.ui.skin]common/btn_green_small_normal.jpg",
-		scale9Grid:{},
-		colorTransform:{
-			redMultiplier: 0.5, greenMultiplier: 0.5, blueMultiplier: 0.5,
-			redOffset: 128, greenOffset: 2, blueOffset: -255
-		}
+		scale9Grid:{}
 	},
 	button_small_red_over:{
 		uri: "[config.ui.skin]common/btn_green_small_over.jpg",
-		scale9Grid:{},
-		colorTransform:{
-			redMultiplier: 0.5, greenMultiplier: 0.5, blueMultiplier: 0.5,
-			redOffset: 128, greenOffset: 2, blueOffset: -255
-		}
+		scale9Grid:{}
 	},
 	button_small_red_pressed:{
 		uri: "[config.ui.skin]common/btn_green_small_pressed.jpg",
-		scale9Grid:{},
-		colorTransform:{
-			redMultiplier: 0.5, greenMultiplier: 0.5, blueMultiplier: 0.5,
-			redOffset: 128, greenOffset: 2, blueOffset: -255
-		}
+		scale9Grid:{}
 	},
 	
 	// Green small button with very thin border
@@ -129,45 +117,27 @@
 	// Green grey button with very thin border
 	button_grey_thin_border_normal:{
 		uri: "[config.ui.skin]common/btn_green_thin_border_disabled.png",
-		scale9Grid:{},
-		colorTransform:{
-			redMultiplier: 0.5, greenMultiplier: 0.5, blueMultiplier: 0.5
-		}
+		scale9Grid:{}
 	},
 	button_grey_thin_border_over:{
 		uri: "[config.ui.skin]common/btn_green_thin_border_disabled_over.png",
-		scale9Grid:{},
-		colorTransform:{
-			redMultiplier: 0.7, greenMultiplier: 0.7, blueMultiplier: 0.7
-		}
+		scale9Grid:{}
 	},
 	button_grey_thin_border_pressed:{
 		uri: "[config.ui.skin]common/btn_green_thin_border_disabled_pressed.png",
-		scale9Grid:{},
-		colorTransform:{
-			redMultiplier: 0.4, greenMultiplier: 0.4, blueMultiplier: 0.4
-		}
+		scale9Grid:{}
 	},
 	button_grey_thin_border_selected:{
 		uri: "[config.ui.skin]common/btn_green_thin_border_normal.png",
-		scale9Grid:{},
-		colorTransform:{
-			redMultiplier: 1, greenMultiplier: 1, blueMultiplier: 1
-		}
+		scale9Grid:{}
 	},
 	button_grey_thin_border_selected_over:{
 		uri: "[config.ui.skin]common/btn_green_thin_border_over.png",
-		scale9Grid:{},
-		colorTransform:{
-			redMultiplier: 1, greenMultiplier: 1, blueMultiplier: 1
-		}
+		scale9Grid:{}
 	},
 	button_grey_thin_border_selected_pressed:{
 		uri: "[config.ui.skin]common/btn_green_thin_border_pressed.png",
-		scale9Grid:{},
-		colorTransform:{
-			redMultiplier: 1, greenMultiplier: 1, blueMultiplier: 1
-		}
+		scale9Grid:{}
 	},
 	
 	// Giant green button with decoration

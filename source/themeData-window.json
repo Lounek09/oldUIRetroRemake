@@ -46,7 +46,6 @@
 
 	window_border_small_half:{
 		uri: "[config.ui.skin]common/window_border_small_top.png",
-		colorTransform:{redMultiplier:0.8, greenMultiplier:0.8, blueMultiplier:0.8},
 		scale9Grid:{x:30,y:25,width:126,height:8}
 	}
 }
