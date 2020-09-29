@@ -1,27 +1,27 @@
 p {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	text-align: justify;
 	font-weight: normal;
 }
 left {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	font-weight: normal;
 	text-align: left;
 }
 right {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	font-weight: normal;
 	text-align: right;
 }
 center {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	font-weight: normal;
 	text-align: center;
@@ -29,7 +29,7 @@ center {
 
 bold {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	text-align: justify;
 	font-weight: bold;
@@ -37,7 +37,7 @@ bold {
 
 italic {
     font-family: Verdana;
-    font-size: 14;
+    font-size: 14px;
     color: #312D24;
     text-align: justify;
     font-style: italic;
@@ -45,21 +45,21 @@ italic {
 
 boldleft {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	font-weight: bold;
 	text-align: left;
 }
 boldright {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	font-weight: bold;
 	text-align: right;
 }
 boldcenter {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	font-weight: bold;
 	text-align: center;
@@ -97,32 +97,32 @@ bolddisabled {
 
 medium {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	text-align: justify;
 }
 mediumleft {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	text-align: left;
 }
 mediumright {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	text-align: right;
 }
 mediumcenter {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	text-align: center;
 }
 
 mediumcenterbold {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	text-align: center;
 	font-weight: bold;
@@ -130,7 +130,7 @@ mediumcenterbold {
 
 mediumleftbold {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	text-align: left;
 	font-weight: bold;
@@ -138,7 +138,7 @@ mediumleftbold {
 
 mediumrightbold {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	text-align: right;
 	font-weight: bold;
@@ -170,28 +170,28 @@ condensedboldright {
 
 dark {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #696968;
 	text-align: justify;
 	font-weight: normal;
 }
 darkleft {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #696968;
 	font-weight: normal;
 	text-align: left;
 }
 darkright {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #696968;
 	font-weight: normal;
 	text-align: right;
 }
 darkcenter {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #696968;
 	font-weight: normal;
 	text-align: center;
@@ -199,7 +199,7 @@ darkcenter {
 
 whiteleft {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #ffffff;
 	font-weight: normal;
 	text-align: left;
@@ -207,7 +207,7 @@ whiteleft {
 
 whiteright {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #ffffff;
 	font-weight: normal;
 	text-align: right;
@@ -215,7 +215,7 @@ whiteright {
 
 whitecenter {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #ffffff;
 	font-weight: normal;
 	text-align: center;
@@ -223,7 +223,7 @@ whitecenter {
 
 whitemediumcenter {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #ffffff;
 	text-align: center;
 	text-decoration: none;
@@ -231,7 +231,7 @@ whitemediumcenter {
 
 darkboldcenter {
     font-family: Verdana;
-    font-size: 14;
+    font-size: 14px;
     color: #3c381b;
     font-weight: bold;
     text-align: center;
@@ -239,20 +239,20 @@ darkboldcenter {
 
 green {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	text-align: justify;
 }
 greenleft {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	text-align: left;
 }
 
 greenleftlight {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #deff00;
 	font-weight: lighter;
 	text-align: left;
@@ -260,14 +260,14 @@ greenleftlight {
 
 greenright {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	text-align: right;
 }
 
 greencenter {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	text-align: center;
 	text-decoration: none;
@@ -275,7 +275,7 @@ greencenter {
 
 greenunderlinecenter {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #312D24;
 	text-align: center;
 	text-decoration: underline;
@@ -283,28 +283,28 @@ greenunderlinecenter {
 
 truegreen {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #7fc717;
 	text-align: justify;
 }
 
 yellow {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #faf21a;
 	text-align: justify;
 }
 
 orange {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #a47b02;
 	text-align: justify;
 }
 
 orangebold {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #a47b02;
 	font-weight: bold;
 	text-align: left;
@@ -312,7 +312,7 @@ orangebold {
 
 orangeitalic {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #ebc304;
 	font-weight: italic;
 	text-align: left;
@@ -324,14 +324,14 @@ itemset_left {
 
 orangeleft {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #a47b02;
 	text-align: left;
 }
 
 orangeleftlight {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #ebc304;
 	font-weight: normal;
 	text-align: left;
@@ -339,20 +339,20 @@ orangeleftlight {
 
 orangeright {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #a47b02;
 	text-align: right;
 }
 orangecenter {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #a47b02;
 	text-align: center;
 }
 
 orangecenterbold {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #ebc304;
 	font-weight: bold;
 	text-align: center;
@@ -360,19 +360,19 @@ orangecenterbold {
 
 red {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #eb0000;
 	text-align: justify;
 }
 redleft {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #eb0000;
 	text-align: left;
 }
 redright {
 	font-family: Verdana;
-	font-size: 14;
+	font-size: 14px;
 	color: #eb0000;
 	text-align: right;
 }
@@ -473,8 +473,8 @@ darkboldcenter {
 
 shadowedcenter {
 	font-family: Verdana;
-	font-size: 14;
-	color: #312D24;
+	font-size: 14px;
+	color: #eeeeee;
 	font-weight: normal;
 	text-align: center;
 	shadow-distance: 0;

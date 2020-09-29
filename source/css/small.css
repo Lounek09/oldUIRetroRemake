@@ -327,7 +327,7 @@ p4center {
 }
 
 
-/* Classes servant � l'affichage des zones alignees sur la carte */
+/* Classes servant à l'affichage des zones alignees sur la carte */
 bonta {
 	font-family: Verdana;
 	font-size: 17px;
@@ -349,7 +349,7 @@ redcenter {
 	text-align: center;
 }
 
-/* Classes servant � l'affichage des objets speciaux en hdv */
+/* Classes servant à l'affichage des objets speciaux en hdv */
 
 itemSet {
 	font-family: Verdana;
@@ -382,7 +382,7 @@ exotic {
 	letterSpacing: 0.3;
 }
 
-/* Quantit� affich�e sur les items */
+/* Quantité affichée sur les items */
 quantity {
 	font-family: Verdana;
 	font-size: 16px;
@@ -398,7 +398,7 @@ small {
 	font-weight: normal;
 }
 
-/* Classes servant � l'affichage des carac de dinde */
+/* Classes servant à l'affichage des carac de dinde */
 
 rightred {
 	font-family: Verdana;

@@ -6,8 +6,7 @@
 	
 	block_background_dark:{
 		uri: "[config.ui.skin]common/block_background.jpg",
-		align:"CENTER",
-		colorTransform:{ redMultiplier:0.6,	greenMultiplier:0.6,	blueMultiplier:0.6   }
+		align:"CENTER"		
 	},
 	
 	bg_small_border_light:{
@@ -32,8 +31,7 @@
 	
 	block_border_dark:{
 		uri: "[config.ui.skin]common/block_border.png",
-		scale9Grid:{x:10, y:10, width:130, height:112},
-		colorTransform:{ redMultiplier:0.6,	greenMultiplier:0.6,	blueMultiplier:0.6   }
+		scale9Grid:{x:10, y:10, width:130, height:112}
 	},
 	
 	block_border_scratch:{
@@ -43,8 +41,7 @@
 	
 	block_border_scratch_dark:{
 		uri: "[config.ui.skin]common/block_border_scratch.png",
-		scale9Grid:{x:25, y:17, width:100, height:101},
-		colorTransform:{ redMultiplier:0.6,	greenMultiplier:0.6,	blueMultiplier:0.6   }
+		scale9Grid:{x:25, y:17, width:100, height:101}
 	},
 	
 	block_border_double:{

@@ -173,7 +173,7 @@ darkright {
 light {
 	font-family: Verdana;
 	font-size: 18px;
-	color: #312D24312D24;
+	color: #312D24;
 	letterSpacing: 0.3;
 }
 lightcenter {
@@ -191,16 +191,16 @@ lightright {
 smalllightleft {
 	font-family: Verdana;
 	font-size: 16px;
-	color: #312D24312D24;
+	color: #312D24;
 	text-align: left;
 }
 smalllightright {
 	font-family: Verdana;
 	font-size: 16px;
-	color: #312D24312D24;
+	color: #312D24;
 	text-align: right;
 }
-/*--------------- invers� Style ----------------*/
+/*--------------- inversé Style ----------------*/
 
 opposite {
 	font-family: Verdana;
@@ -415,7 +415,7 @@ exotic {
 	letterSpacing: 0.3;
 }
 
-/* Quantit� affich�e sur les items */
+/* Quantité affichée sur les items */
 quantity {
 	font-family: Verdana;
 	font-size: 18px;

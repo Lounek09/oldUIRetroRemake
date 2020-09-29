@@ -8,7 +8,7 @@ successpoints {
 
 apmp {
 	font-family: Impact;
-	font-size: 23px;
+	font-size: 22px;
 	color: #0000FF;
 	text-align: center;
 
@@ -23,23 +23,23 @@ hp {
 }
 
 hpshield_hp {
-	font-size: 19px;
+	font-size: 20px;
 }
 
 shield_hp {
-	font-family: Eras;
+	font-family: Verdana;
 	font-size: 15px;
 }
 
 countdown {
-	font-family: Eras;
+	font-family: Verdana;
 	font-size: 50px;
 	color: #c96217;
 	text-align: center;
 }
 
 coord {
-	font-family: VerdanaCondensed;
+	font-family: Verdana;
 	font-size: 26px;
 	color: #e5e5e3;
 	font-weight: bold;
@@ -68,9 +68,9 @@ idolsscore {
 	font-weight: bold;
 }
 
-Verdanaboldcenter72 {
-	font-family: VerdanaCondensed;
-	font-size: 72px;
+robotoboldcenter72 {
+	font-family: Verdana;
+	font-size: 70px;
 	color: #453B29;
 	font-weight: bold;
 	text-align: center;
@@ -85,7 +85,7 @@ greenunderlineleft {
 }
 
 whitehugeboldshadow{
-	font-family: VerdanaCondensed;
+	font-family: Verdana;
 	font-size: 44px;
 	color: #ffffff;
 	font-weight: bold;
@@ -96,7 +96,7 @@ whitehugeboldshadow{
 }
 
 whitebigboldshadow{
-	font-family: VerdanaCondensed;
+	font-family: Verdana;
 	font-size: 40px;
 	color: #ffffff;
 	font-weight: bold;
@@ -134,23 +134,23 @@ statbonus {
 }
 
 fighterinfo {
-	font-family: VerdanaCondensed;
-	font-size: 17px;
+	font-family: Verdana;
+	font-size: 16px;
 	color: #453B29;
 	font-weight: bold;
 	text-align: left;
 }
 fighterinfodisabled {
-	font-family: VerdanaCondensed;
-	font-size: 17px;
+	font-family: Verdana;
+	font-size: 16px;
 	color: #848480;
 	font-weight: bold;
 	text-align: left;
 }
 
 fighterinfolifepoints {
-	font-family: VerdanaCondensed;
-	font-size: 17px;
+	font-family: Verdana;
+	font-size: 15px;
 	color: #453B29;
 	font-weight: bold;
 	text-align: left;
@@ -160,7 +160,7 @@ fighterinfolifepoints {
 
 configqualityinfo {
 	font-family: Verdana;
-	font-size: 17px;
+	font-size: 15px;
 	color: #808080;
 	font-style: italic;
 	text-align: center;
@@ -168,7 +168,7 @@ configqualityinfo {
 
 shopoldprice {
 	font-family: Verdana;
-	font-size: 12px;
+	font-size: 15px;
 	color: #737373;
 	text-align: justify;
     font-weight: normal;

@@ -1,7 +1,7 @@
 /*-------------------- P Style --------------------*/
 p {
 	font-family: Verdana;
-	font-size: 16px;
+	font-size: 15px;
 	color: #312D24;
 	text-align: justify;
     font-weight: normal;
@@ -58,7 +58,7 @@ italicdisabled_p {
 /*-------------------- condensed Style --------------------*/
 condensedbold {
 	font-family: Verdana;
-	font-size: 16px;
+	font-size: 15px;
 	color: #312D24;
 	font-weight: bold;
 	text-align: justify;
@@ -135,7 +135,7 @@ darkboldcenter_darkbold { text-align: center; }
 /*-------------------- brown Style --------------------*/
 browncondensedboldcenter {
 	font-family: Verdana;
-	font-size: 16px;
+	font-size: 15px;
 	color: #3c381b;
 	font-weight: bold;
 	text-align: center;
@@ -144,7 +144,7 @@ browncondensedboldcenter {
 /*-------------------- green Style --------------------*/
 green {
 	font-family: Verdana;
-	font-size: 16px;
+	font-size: 15px;
 	color: #312D24;
 	text-align: justify;
 }
@@ -165,7 +165,7 @@ greenboldcenter_p {
 /*-------------------- orange Style --------------------*/
 orange {
 	font-family: Verdana;
-	font-size: 16px;
+	font-size: 15px;
 	color: #a47b02;
 	text-align: justify;
 }
@@ -179,7 +179,7 @@ bigboldorangeleft_bigorangeleft { font-weight: bold }
 /*-------------------- red Style --------------------*/
 red {
 	font-family: Verdana;
-	font-size: 16px;
+	font-size: 15px;
 	color: #eb0000;
 	text-align: justify;
 }
@@ -200,7 +200,7 @@ redboldcenterwhiteshadow {
 /*-------------------- white Style --------------------*/
 white{
 	font-family: Verdana;
-	font-size: 16px;
+	font-size: 15px;
 	color: #312D24;
 }
 whitebold_white {
@@ -217,7 +217,7 @@ extrawhiteboldcenter_extrawhitebold { text-align: center; }
 extrawhitebig{
 	font-family: Verdana;
 	color: #ffffff;
-	font-size: 16px;
+	font-size: 15px;
 }
 extrawhitebigleft_extrawhitebig {
 	text-align: left;
@@ -245,7 +245,7 @@ npcdialoganswerover_p {
 boldcenterogrine {
 	font-family: Verdana;
 	font-size: 18px;
-	color: #058B92;
+	color:  #058B92;
 	font-weight: bold;
 	text-align: center;
 	letterSpacing: 0;
@@ -254,7 +254,7 @@ boldcenterogrine {
 p4center {
 	font-family: Verdana;
 	font-size: 18px;
-	color: #BBBBBB;
+	color: #FFFFFF;
 	text-align: center;
 	letterSpacing: 0.3;
 }
@@ -265,22 +265,21 @@ smithmagicsuccess {color:#0e630c;}
 /*--------------------- Suivi de quête ---------------*/
 questtitle {
 	font-family: Verdana;
-	font-size: 16px;
-	color: #f8cd01;
+	font-size: 15px;
+	color: #F8CD01;
 	text-align: left;
 	shadow-distance: 1;
 }
 questtitlecenter_questtitle { text-align: center; }
 questobjective {
 	font-family: Verdana;
-	font-size: 16px;
-	color: #ffffff;
+	font-size: 15px;
+	color: #453B29;
 	text-align: left;
     font-weight: normal;
-	shadow-distance: 1;
 	leading: -1;
 }
-seemore_questobjective {color:#d7d7d7;}
+seemore_questobjective {color:#C8C8C8;}
 questfinished_p {color:#312D24;}
 questlevel_p {
 	font-size: 14px;
