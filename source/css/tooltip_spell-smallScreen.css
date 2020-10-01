@@ -1,6 +1,6 @@
 p {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
 	color: #312D24;
 }
 
@@ -15,41 +15,43 @@ p {
 
 .value {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
+	font-weight: bold;
 	color: #312D24;
 }
 
 .subtitle {
 	font-family: Verdana;
-	font-size: 18;
+	font-size: 18px;
+	font-weight: bold;
 	color: #514a3c;
 	margin-left: 16;
 }
 
 .bonus {
 	font-family: Verdana;
-	font-size: 17;
-	color: #6db213;
+	font-size: 17px;
+	color: #0e630c;
 }
 
 .bonusvalue {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
 	font-weight: bold;
-	color: #8bf402;
+	color: #0e630c;
 }
 
 .malus {
 	font-family: Verdana;
-	font-size: 17;
-	color: #d0483a;
+	font-size: 17px;
+	color: #b02424;
 }
 
 .malusvalue {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
 	font-weight: bold;
-	color: #d0483a;
+	color: #b02424;
 }
 
 .subeffectleftcolumn {
@@ -63,85 +65,85 @@ p {
 
 .exotic {
 	font-family: Verdana;
-	font-size: 17;
-	color: #4683ce;
+	font-size: 17px;
+	color: #1b599e;
 }
 
 .exoticvalue {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
 	font-weight: bold;
-	color: #68b6ff;
+	color: #1b599e;
 }
 
 .theoretical {
 	font-family: Verdana;
-	font-size: 17;
-	color: #312D24 ;
+	font-size: 17px;
+	color: #312D24;
 }
 
 .requirement {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
 	color: #a8792b;
 }
 
 .special {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
 	color: #ca8220;
 }
 
 .set {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
 	color: #a47b02;
 }
 
 .importantNotice {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
 	color: #ebc304;
 	margin-left: 32;
 }
 
 .description {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
 	color: #c0590e;
 }
 
 .quote {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
 	font-style: italic;
-	color: #c0590e;
+	color: #737373;
 }
 
 .headerp {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
 	color: #312D24;
 	margin-left: 48;
 }
 
 .headermalus {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
 	color: #d0483a;
 	margin-left: 48;
 }
 
 .headertitle {
 	font-family: Verdana;
-	font-size: 18;
+	font-size: 18px;
 	color: #514a3c;
 	margin-left: 48;
 }
 
 .footer {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
 	font-style: italic;
 	color: #494949;
 	text-align: center;
@@ -149,7 +151,7 @@ p {
 
 .footerleft {
 	font-family: Verdana;
-	font-size: 15;
+	font-size: 15px;
 	font-style: italic;
 	color: #494949;
 	text-align: left;
@@ -158,28 +160,29 @@ p {
 
 .footerright {
 	font-family: Verdana;
-	font-size: 15;
+	font-size: 15px;
 	font-style: italic;
 	color: #494949;
 	text-align: right;
+	leading: -22;
 }
 
 spellZone {
 	font-family: Verdana;
-	font-size: 17;
+	font-size: 17px;
 	color: #312D24;
 	margin-left: 32;
 }
 
 .spellpair {
     font-family: Verdana;
-    font-size: 18;
+    font-size: 18px;
     font-weight: bold;
     color: #514a3c;
 }
 
 .subtitleheader {
 	font-family: Verdana;
-	font-size: 15;
+	font-size: 15px;
 	color: #c7c7c5;
 }
