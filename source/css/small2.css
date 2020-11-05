@@ -446,27 +446,27 @@ whiteboldcenter {
 darkbold {
 	font-family: Verdana;
 	font-size: 14px;
-	color: #2d1e13;
+	color: #2D1E13;
 	font-weight: bold;
 }
 darkboldleft {
 	font-family: Verdana;
 	font-size: 14px;
-	color: #2d1e13;
+	color: #2D1E13;
 	font-weight: bold;
 	text-align: left;
 }
 darkboldright {
 	font-family: Verdana;
 	font-size: 14px;
-	color: #2d1e13;
+	color: #2D1E13;
 	font-weight: bold;
 	text-align: right;
 }
 darkboldcenter {
 	font-family: Verdana;
 	font-size: 14px;
-	color: #2d1e13;
+	color: #2D1E13;
 	font-weight: bold;
 	text-align: center;
 }
@@ -474,7 +474,7 @@ darkboldcenter {
 shadowedcenter {
 	font-family: Verdana;
 	font-size: 14px;
-	color: #eeeeee;
+	color: #EEEEEE;
 	font-weight: normal;
 	text-align: center;
 	shadow-distance: 0;

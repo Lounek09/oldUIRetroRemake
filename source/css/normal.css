@@ -173,31 +173,31 @@ darkright {
 light {
 	font-family: Verdana;
 	font-size: 18px;
-	color: #312D24;
+	color: #EEEEEE;
 	letterSpacing: 0.3;
 }
 lightcenter {
 	font-family: Verdana;
 	font-size: 18px;
-	color: #312D24;
+	color: #EEEEEE;
 	text-align: center;
 }
 lightright {
 	font-family: Verdana;
 	font-size: 18px;
-	color: #312D24;
+	color: #EEEEEE;
 	text-align: right;
 }
 smalllightleft {
 	font-family: Verdana;
 	font-size: 16px;
-	color: #312D24;
+	color: #EEEEEE;
 	text-align: left;
 }
 smalllightright {
 	font-family: Verdana;
 	font-size: 16px;
-	color: #312D24;
+	color: #EEEEEE;
 	text-align: right;
 }
 /*--------------- inversé Style ----------------*/

@@ -41,7 +41,7 @@
 	<entry key="multigrid.line">0xB4AC8D</entry>
 	<entry key="multigrid.subline">0xC9BF9D</entry>
 	<entry key="multigrid.selected">0xF88D30</entry>
-    <entry key="multigrid.subselected">0x354C58</entry>
+	<entry key="multigrid.subselected">0x354C58</entry>
 	
 	<entry key="radio.over">0x2C2E26</entry>
 	
@@ -66,8 +66,8 @@
 	<entry key="tooltip.border">0x000000</entry>
 	<entry key="tooltip.border.activePin">0x505050</entry>
 	<entry key="tooltip.separator">0xFF9E9E9E</entry>
-
-
+	
+	
 	<entry key="scrollbar.bg">0xBEB998</entry>
 	<entry key="scrollbar.bar">0x514A3C</entry>
 	
@@ -102,11 +102,11 @@
 	<entry key="fight.text.earth">0xAB5703</entry>
 	<entry key="fight.text.neutral">0x7D7D7D</entry>
 	
-	<entry key="smithmagic.success">0x365218</entry>
-	<entry key="smithmagic.fail">0x5A2827</entry>	
+	<entry key="smithmagic.success">0xA2D868</entry>
+	<entry key="smithmagic.fail">0xF36661</entry>
 	<entry key="tooltip.bonus">0x52AE3F</entry>
 	<entry key="tooltip.malus">0xCB685E</entry>
-		
+	
 	<entry key="shop.oldPrice">0x737373</entry>
 	<entry key="area.all">0x312D24</entry>
 	<entry key="area.normal">0x312D24</entry>
@@ -120,10 +120,10 @@
 	<entry key="area.sabotaged.dark">0xAC58C8</entry>
 	<entry key="area.vulnerable.dark">0xBB6050</entry>
 	<entry key="area.capturable.dark">0x748A1B</entry>
-
+	
 	<entry key="icon.green">0xFF6600</entry>
 	<entry key="icon.grey">0x252525</entry>
-
+	
 	<!-- Divers -->
 	
 	<entry key="progressbar.background">0x514A3C</entry>
@@ -132,11 +132,11 @@
 	<entry key="progressbar.blue">0x3aFF6600</entry>
 	<entry key="progressbar.green">0xFF6600</entry>
 	<entry key="progressbar.yellow">0xFF6600</entry>
-    <entry key="progressbar.pink">0xFF6600</entry>
-    <entry key="progressbar.red">0xFF6600</entry>
-    <entry key="progressbar.gold">0xFF6600</entry>
-    
-    <entry key="progressbar.damage">0xff6a3d</entry>
+	<entry key="progressbar.pink">0xFF6600</entry>
+	<entry key="progressbar.red">0xFF6600</entry>
+	<entry key="progressbar.gold">0xFF6600</entry>
+	
+	<entry key="progressbar.damage">0xff6a3d</entry>
 	<entry key="progressbar.lifePoints">0xFF0000</entry>
 	<entry key="progressbar.shieldPoints">0x9966CC</entry>
 	<entry key="progressbar.lifeThreshold">0xebc304</entry>
@@ -166,7 +166,7 @@
 	<entry key="gameserver.type3">0x173c3c</entry>
 	<entry key="gameserver.type4">0x143b5c</entry>
 	<entry key="gameserver.type5">0xc36a00</entry>
-
+	
 	<!--entry key="tacticmode.floor01">0xbdbfbf</entry>
 	<entry key="tacticmode.floor02">0xb7b9b9</entry>
 	<entry key="tacticmode.block01">0xf6f6f6</entry>

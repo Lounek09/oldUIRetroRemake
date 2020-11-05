@@ -17,7 +17,7 @@ center {
 	font-size: 22px;
 	color: #ffffff;
 	font-weight: bold;
-	padding-left: 20px;
+	text-align: center;
 }
 shadowedcenter_center{
 	shadow-distance: 2;
