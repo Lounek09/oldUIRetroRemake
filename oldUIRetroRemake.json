@@ -3,12 +3,12 @@
         "author": "Y2g",
         "name": "oldUIRetroRemake",
         "keyWords": "Retro",
-        "version": "2.1.2",
+        "version": "2.1.3",
         "dofusVersion": "2.57",
         "description": "L'ancienne interface utilisateur Retro revisitée ! Reprise du thème initialement créé par Aspette.",
         "url": "https://github.com/Yggdrasilife/oldUIRetroRemake/raw/master/oldUIRetroRemake.zip",
         "previewUrl": "https://github.com/Yggdrasilife/oldUIRetroRemake/raw/master/source/bitmap/oldUIPreview.jpg",
         "creationDate": "25/05/2019",
-        "modificationDate": "05/11/2020"
+        "modificationDate": "24/11/2020"
     }
 ]
