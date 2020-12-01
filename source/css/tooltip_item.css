@@ -44,27 +44,27 @@ p {
 .bonus {
 	font-family: Verdana;
 	font-size: 14px;
-	color: #0e630c;
+	color: #0E630C;
 }
 
 .bonusvalue {
 	font-family: Verdana;
 	font-size: 14px;
 	font-weight: bold;
-	color: #0e630c;
+	color: #0E630C;
 }
 
 .malus {
 	font-family: Verdana;
 	font-size: 14px;
-	color: #b02424;
+	color: #B02424;
 }
 
 .malusvalue {
 	font-family: Verdana;
 	font-size: 14px;
 	font-weight: bold;
-	color: #b02424;
+	color: #B02424;
 }
 
 .neutral {
@@ -82,15 +82,14 @@ p {
 .overFm {
 	font-family: Verdana;
 	font-size: 14px;
-	font-weight: bold;
-	color: #5DCF45;
+	color: #C7A000;
 }
 
 .overFmvalue {
 	font-family: Verdana;
 	font-size: 14px;
 	font-weight: bold;
-	color: #5DCF45;
+	color: #C7A000;
 }
 
 .subeffectleftcolumn {
@@ -105,14 +104,14 @@ p {
 .exotic {
 	font-family: Verdana;
 	font-size: 14px;
-	color: #1b599e;
+	color: #1B599E;
 }
 
 .exoticvalue {
 	font-family: Verdana;
 	font-size: 14px;
 	font-weight: bold;
-	color: #1b599e;
+	color: #1B599E;
 }
 
 .theoretical {
@@ -124,32 +123,32 @@ p {
 .requirement {
 	font-family: Verdana;
 	font-size: 14px;
-	color: #a8792b;
+	color: #A8792B;
 }
 
 .special {
 	font-family: Verdana;
 	font-size: 14px;
-	color: #ca8220;
+	color: #CA8220;
 }
 
 .set {
 	font-family: Verdana;
 	font-size: 14px;
-	color: #a47b02;
+	color: #A47B02;
 }
 
 .importantNotice {
 	font-family: Verdana;
 	font-size: 14px;
-	color: #ebc304;
+	color: #EBC304;
 	margin-left: 32;
 }
 
 .description {
 	font-family: Verdana;
 	font-size: 14px;
-	color: #c0590e;
+	color: #C0590E;
 }
 
 .quote {
@@ -169,7 +168,7 @@ p {
 .headermalus {
 	font-family: Verdana;
 	font-size: 14px;
-	color: #d0483a;
+	color: #D0483A;
 	margin-right: 126;
 }
 
@@ -177,7 +176,7 @@ p {
 	font-family: Verdana;
 	font-size: 17px;
 	font-weight: bold;
-	color: #514a3c;
+	color: #514A3C;
 	margin-right: 126;
 }
 
@@ -237,7 +236,7 @@ spellZone {
 	font-size: 14px;
 	text-align: right;
 	leading: -19;
-	color: #6db213;
+	color: #6DB213;
 }
 
 .rare {
@@ -261,7 +260,7 @@ spellZone {
 	font-size: 14px;
 	text-align: right;
 	leading: -19;
-	color: #ffb400;
+	color: #FFB400;
 }
 
 .descriptionproba {
