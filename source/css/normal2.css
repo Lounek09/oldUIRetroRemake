@@ -68,12 +68,19 @@ condensedboldright_condensedbold {
 	text-align: right;
 }
 condensedboldcentert_condensedbold {
-    text-align: center;
+	text-align: center;
+}
+
+whitecondensedboldleft_condensedbold {
+	color: #312D24;
+	text-align: left;
+	font-size: 20px;
 }
 
 whitecondensedboldright_condensedbold {
 	color: #312D24;
 	text-align: right;
+	font-size: 20px;
 }
 
 whitecondensedboldcenter_condensedbold {
@@ -258,10 +265,7 @@ p4center {
 	text-align: center;
 	letterSpacing: 0.3;
 }
-/*--------------------- Forgemagie style --------------*/
-smithmagicexo {color:#1b599e;}
-smithmagicfail {color:#b02424;}
-smithmagicsuccess {color:#0e630c;}
+
 /*--------------------- Suivi de quête ---------------*/
 questtitle {
 	font-family: Verdana;
