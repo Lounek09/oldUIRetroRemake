@@ -3,9 +3,9 @@
     <skinType>1</skinType>
     <description>L'ancienne interface utilisateur Retro revisitée ! Reprise du thème initialement créé par Aspette.</description>
     <previewUri>oldUIPreview.jpg</previewUri>
-    <author>Y2g</author>
+    <author>Lounek</author>
     <version>2.2.0</version>
-    <dofusVersion>2.58</dofusVersion>
+    <dofusVersion>2.59</dofusVersion>
     <creationDate>25/05/2019</creationDate>
-    <modificationDate>01/12/2020</modificationDate>
+    <modificationDate>11/04/2021</modificationDate>
 </theme>
