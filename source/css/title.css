@@ -1,21 +1,21 @@
 p {
 	font-family: Verdana;
 	font-size: 22px;
-	color: #ffffff;
+	color: #FFFFFF;
 	font-weight: bold;
 	text-align: left;
 }
 right {
 	font-family: Verdana;
 	font-size: 22px;
-	color: #ffffff;
+	color: #FFFFFF;
 	font-weight: bold;
 	text-align: right;
 }
 center {
 	font-family: Verdana;
 	font-size: 22px;
-	color: #ffffff;
+	color: #FFFFFF;
 	font-weight: bold;
 	text-align: center;
 }
@@ -48,14 +48,14 @@ smallcenter {
 dark {
 	font-family: Verdana;
 	font-size: 21px;
-	color: #2f2f25;
+	color: #2F2F25;
 	font-weight: bold;
 	text-align: left;
 }
 darkcenter {
 	font-family: Verdana;
 	font-size: 21px;
-	color: #2f2f25;
+	color: #2F2F25;
 	font-weight: bold;
 	text-align: center;
 }
@@ -104,7 +104,7 @@ whitecenter {
 whitemediumcenter {
 	font-family: Verdana;
 	font-size: 20px;
-	color: #c7c7c5;
+	color: #C7C7C5;
 	font-weight: medium;
 	text-align: center;
 }
@@ -112,7 +112,7 @@ whitemediumcenter {
 purewhitemedium {
 	font-family: Verdana;
 	font-size: 20px;
-	color: #ffffff;
+	color: #FFFFFF;
 	font-weight: medium;
 	text-align: left;
 }
@@ -127,16 +127,27 @@ green {
 greenbold {
 	font-family: Verdana;
 	font-size: 20px;
-	color: #ffffff;
+	color: #FFFFFF;
 	font-weight: bold;
 	text-align: left;
 }
 greencenter {
 	font-family: Verdana;
 	font-size: 20px;
-	color: #ffffff;
+	color: #FFFFFF;
 	font-weight: normal;
 	text-align: center;
+}
+
+shadowedgreencenter {
+	font-family: Verdana;
+	font-size: 20px;
+	color: #FFFFFF;
+	font-weight: normal;
+	text-align: center;
+	shadow-distance: 2;
+	shadow-blurX: 2;
+	shadow-angle: 90;
 }
 
 gray {
@@ -180,28 +191,28 @@ whitemediumboldcenter {
 whitebigbold {
 	font-family: Verdana;
 	font-size: 27px;
-	color: #ffffff;
+	color: #FFFFFF;
 	font-weight: bold;
 	text-align: left;
 }
 whitebigboldcenter {
 	font-family: Verdana;
 	font-size: 27px;
-	color: #ffffff;
+	color: #FFFFFF;
 	font-weight: bold;
 	text-align: center;
 }
 whitehugebold {
 	font-family: Verdana;
 	font-size: 44px;
-	color: #ffffff;
+	color: #FFFFFF;
 	font-weight: bold;
 	text-align: left;
 }
 whitehugeboldcenter {
 	font-family: Verdana;
 	font-size: 31px;
-	color: #ffffff;
+	color: #FFFFFF;
 	font-weight: bold;
 	text-align: center;
 	shadow-distance: 1;
@@ -214,7 +225,7 @@ whitehugeboldcenter {
 itemset {
 	font-family: Verdana;
 	font-size: 20px;
-	color: #cc9933;
+	color: #CC9933;
 	font-weight: bold;
 	text-align: left;
 }
@@ -222,14 +233,14 @@ itemset {
 itemetheral {
 	font-family: Verdana;
 	font-size: 20px;
-	color: #8ab7ee;
+	color: #8AB7EE;
 	font-weight: bold;
 	text-align: left;
 }
 victory {
     font-family: Verdana;
     font-size: 24px;
-    color: #673d15;
+    color: #673D15;
     font-weight: bold;
     text-align: center;
     shadow-color: #faf328;
@@ -241,7 +252,7 @@ victory {
 defeat {
     font-family: Verdana;
     font-size: 24px;
-    color: #47360c;
+    color: #47360C;
     font-weight: bold;
     text-align: center;
     shadow-color: #d39086;
@@ -253,7 +264,7 @@ defeat {
 levelup {
 	font-family: Verdana;
 	font-size: 40px;
-	color: #673d15;
+	color: #673D15;
 	font-weight: bold;
 	text-align: center;
 	shadow-color: #faf328;
@@ -268,7 +279,7 @@ levelupomega_levelup {
 scroll {
 	font-family: Verdana;
 	font-size: 25px;
-	color: #d09b4b;
+	color: #D09B4B;
 	text-align: center;
 	shadow-color : #000;
 	shadow-distance : 9;
@@ -278,7 +289,7 @@ newfeaturetitle
 {
 	font-family: Verdana;
 	font-size: 34px;
-	color: #fea601;
+	color: #FEA601;
 	font-weight: bold;
 	text-align: right;
 	shadow: 2px 2px 2px #fea601, 0px 0px 25px #fea601;

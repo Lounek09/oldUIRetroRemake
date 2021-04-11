@@ -1,0 +1,23 @@
+texture/btnIcon/btn_icon_x.png :
+
+Ctrl + U
+-100
+-50
+95
+
+
+texture/CHAT/tx_chat_x.png :
+
+Ctrl + U
+-100
+-50
+95
+
+
+texture/CHAT/btn_x.png :
+
+Ctrl + U
+-100
+-50
+Ctrl + U
+Invert
